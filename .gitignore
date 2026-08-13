@@ -1,0 +1,5 @@
+# vscode (specifically requested to be ignored in git)
+.vscode
+
+# Misc
+.DS_Store
